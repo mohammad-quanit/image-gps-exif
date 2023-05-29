@@ -1,7 +1,7 @@
 ## Steps to run this project
 
 ```
-- Unzip the file
+- Clone this project
 - cd `img-exif` folder
 - go get
 - go mod tidy
